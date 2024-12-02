@@ -1,0 +1,2 @@
+*.largefileextension filter=lfs diff=lfs merge=lfs -text
+.next/cache/webpack/*.pack filter=lfs diff=lfs merge=lfs -text

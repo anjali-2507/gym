@@ -1,0 +1,17 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/addclient/route": "app/api/addclient/route.js",
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/carbot/route": "app/api/carbot/route.js",
+  "/api/Gym_Management/route": "app/api/Gym_Management/route.js",
+  "/api/clientdata/route": "app/api/clientdata/route.js",
+  "/api/uploadthing/route": "app/api/uploadthing/route.js",
+  "/api/delete/route": "app/api/delete/route.js",
+  "/api/momDatas/route": "app/api/momDatas/route.js",
+  "/(dashboard)/dashboard/ClientData/page": "app/(dashboard)/dashboard/ClientData/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/dashboard/user/[userId]/page": "app/(dashboard)/dashboard/user/[userId]/page.js",
+  "/(dashboard)/dashboard/user/page": "app/(dashboard)/dashboard/user/page.js"
+}
