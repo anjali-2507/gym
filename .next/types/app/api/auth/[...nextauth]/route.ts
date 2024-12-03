@@ -1,4 +1,4 @@
-// File: D:\Gym-Dashboard-main\app\api\auth\[...nextauth]\route.ts
+// File: C:\GymDashboard\app\api\auth\[...nextauth]\route.ts
 import * as entry from '../../../../../../app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

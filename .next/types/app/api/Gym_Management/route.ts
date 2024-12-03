@@ -1,4 +1,4 @@
-// File: D:\Gym-Dashboard-main\app\api\Gym_Management\route.ts
+// File: C:\GymDashboard\app\api\Gym_Management\route.ts
 import * as entry from '../../../../../app/api/Gym_Management/route.js'
 import type { NextRequest } from 'next/server.js'
 
