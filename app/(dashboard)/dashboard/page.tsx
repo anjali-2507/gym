@@ -368,6 +368,7 @@ const GymDashboard = () => {
                         meeting.status
                       )}`}
                     >
+                      
                       {meeting.status || 'N/A'}
                     </span>
                   </td>
